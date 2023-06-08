@@ -1,0 +1,4 @@
+name,email,password,isPremium,isAdmin,workID,workPassword
+John Doe,johndoe@gmail.com,password1,false,false,0,0
+Jane Smith,janesmith@gmail.com,password2,true,true,123,456
+Bob Johnson,bobjohnson@gmail.com,password3,false,true,789,101

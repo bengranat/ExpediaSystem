@@ -1,0 +1,4 @@
+name, serviceType
+Plane, Trip
+Car, perDayRental
+Hotel, perDayRental
